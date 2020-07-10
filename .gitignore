@@ -1,0 +1,6 @@
+*.jpg
+*.png
+#logs
+logs
+*.log
+*.jar
