@@ -9,6 +9,9 @@
 - .toInt.
 - Elvis operator ?: .
 - readLine().
+- try ... catch .. validation
+- Kotlin functions
+- trimIndent
 
 
 #
