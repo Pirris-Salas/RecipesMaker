@@ -12,6 +12,11 @@
 - try ... catch .. validation
 - Kotlin functions
 - trimIndent
-
+- Abstraction
+- Inheritance
+- Functional Programing
+- mutableListOf
+- For
+- Primary and secondary constructors
 
 #
